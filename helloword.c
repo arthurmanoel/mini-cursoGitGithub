@@ -2,7 +2,7 @@
 
 int main (){
     printf("Hello, world!");
-    printf("Mini curso");
+    int sub = 5-4;
 
     int soma;
     for (int i=0; i< 10; i++){
